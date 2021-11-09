@@ -9,9 +9,9 @@
  <li>If forgot password, users can get their account back by entering correct email</li>
  <li>Users can update their username, password, email, and personal information</li>
 </ol>
-<ol type='i'><strong>Using notes</strong>
- <li>Users can write notes, edit notes, and delete notes</li>
- <li>Notes will be automatically updated each time users write</li>
+<ol type='i'><strong>Using Search Trips</strong>
+ <li>To be continued</li>
+ <li>To be continued</li>
 </ol>
 
 # App Demo
