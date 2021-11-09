@@ -1,0 +1,40 @@
+jtml, body {
+  height: 100%;
+}
+
+body {
+  background: url("bg-img.jpg") center center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 100%;
+  padding: 15px 0 5px 0;
+  position: absolute;
+  bottom: 0;
+}
+
+.user li:nth-child(1) img {
+  height: 40px;
+  width: 70px;
+  border-radius: 9999px;
+}
+
+#userData {
+  margin-top: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  cursor: pointer;
+}
+
+#userData tr:hover, #userData tr:active {
+  background-color: black;
+}
+/*# sourceMappingURL=profilePageStyling.css.map */

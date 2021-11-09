@@ -1,0 +1,14 @@
+{
+  "name": "car-sharing",
+  "version": "1.0.0",
+  "description": "A web application which helps people connect and share the ride",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manh Dinh",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}

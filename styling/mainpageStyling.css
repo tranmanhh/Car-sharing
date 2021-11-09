@@ -1,0 +1,68 @@
+body {
+  background: url("bg-img.jpg") center center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 100%;
+  padding: 15px 0 5px 0;
+  margin-top: 200px;
+}
+
+.user li:nth-child(1) img {
+  height: 40px;
+  width: 70px;
+  border-radius: 9999px;
+}
+
+.container {
+  color: white;
+  text-align: center;
+}
+
+#mapMsg {
+  margin-top: 10px;
+}
+
+#map {
+  margin: 10px auto;
+  width: 70%;
+  height: 250px;
+}
+
+#mapResult {
+  max-height: 350px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.journey {
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  border-bottom: 1px dashed white;
+}
+
+.journey div:nth-child(2) {
+  text-align: left;
+}
+
+.driverInfo {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid white;
+  text-align: left;
+  padding-left: 30px;
+  display: none;
+}
+
+.info {
+  text-align: left !important;
+  border-bottom: 1px solid white;
+}
+/*# sourceMappingURL=mainpageStyling.css.map */
