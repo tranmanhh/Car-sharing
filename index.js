@@ -137,7 +137,6 @@ $("#search").click(function(){
 $("#signupForm").submit(function(event){
     event.preventDefault();
     var userInputs = $(this).serializeArray();
-    console.log(userInputs);
     $.ajax({
         url: "signup.php",
         type: "POST",
